@@ -30,3 +30,5 @@ get
           - thumbNail
           - url
           - contents
+
+to run this project with pre-built jar file, locate the jar file in build/libs/demo2-0.0.1-SNAPSHOT-jar
